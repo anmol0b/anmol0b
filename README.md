@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=Jai+Shree+Ram!!+%F0%9F%99%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=Jai+Shree+Ram!+%F0%9F%99%8F)](https://git.io/typing-svg)
 
 ![MasterHead](/head.gif)
 
@@ -17,9 +17,9 @@
 
 - 📫 Reach me through this <a href="mailto:anmolbhardwajinv224+work.com"><strong>Secret Mail</strong></a>
 
-<!-- ⚡ Fun fact **Stack Overflow has a home page :)**
+- ⚡ Fun fact **Reading from a screen slows your reading time. :)**
 
-- 👤 Participant in *GSSOC'23* & *SSOC 2.0*
+<!-- 👤 Participant in *GSSOC'23* & *SSOC 2.0*
 
 - 🔥 250+ days streak on *Leetcode*
 
@@ -62,5 +62,6 @@
 
 [![MisterMickey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MisterMickey&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"><a href="https://www.buymeacoffee.com/mastermickey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></div>
+<div align="center"><a href="https://www.buymeacoffee.com/mastermickey" target="_blank">-->
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></div>
 
