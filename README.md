@@ -43,7 +43,7 @@
 <!--<a href="https://kaggle.com/shubhamsingodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamsingodiya" height="30" width="40" /></a>-->
 <a href="https://www.instagram.com/geezgod2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_master_mickey" height="30" width="40" /></a>
 <!--<a href="https://hashnode.com/@iammastermickey" target="blank">-->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iammastermickey" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@geezgod2002" height="30" width="40" /></a>
 </p>
 
 <!--<div align="center" >
@@ -57,11 +57,12 @@
 <div align="center"><h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />GITHUB STATS</h1> </div>
 
 <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=geezgod2002&show_icons=true&locale=en&layout=compact" alt="geezgod2002"/></p></div>
-<div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=geezgod2002&show_icons=true&locale=en" alt="geezgod2002" /></p></div>
+<div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=geezgod2002&show_icons=true&locale=en" alt="geezgod2002" /><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=geezgod2002&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/></p></div>
 <div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geezgod2002&" alt="geezgod2002"/></p></div>
 
 
 [![geezgod2002's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geezgod2002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg/)-->
 
 <div align="center"><a href="https://www.buymeacoffee.com/geezgod2002" target="_blank">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" ></a></div>
