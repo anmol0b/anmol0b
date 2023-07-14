@@ -42,8 +42,8 @@
 <a href="https://twitter.com/geezgod2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mister_mickey" height="30" width="40" /></a>
 <!--<a href="https://kaggle.com/shubhamsingodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shubhamsingodiya" height="30" width="40" /></a>-->
 <a href="https://www.instagram.com/geezgod2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_master_mickey" height="30" width="40" /></a>
-<!--<a href="https://hashnode.com/@iammastermickey" target="blank">-->
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@geezgod2002" height="30" width="40" /></a>
+<!--<a href="https://hashnode.com/@iammastermickey" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@geezgod2002" height="30" width="40" /></a>-->
 </p>
 
 <!--<div align="center" >
