@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=Jai+Shree+Ram!+%F0%9F%99%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=Do+Something+Great+%F0%9F%99%8F)](https://git.io/typing-svg)
 
 ![MasterHead](/head.gif)
 
