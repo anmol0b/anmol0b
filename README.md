@@ -33,7 +33,7 @@
  </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anmol-bhardwaj-2228a51a3/" target="blank"><img align="center" src="" alt="geezgod2002" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anmol-bhardwaj-2228a51a3/" target="blank"><img align="center" src="linkdin.png" alt="geezgod2002" height="30" width="40" /></a>
 <a href="https://discord.gg/<geezgod2002>#4961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="<Master_Mickey>#7176" height="30" width="40" /></a>
 <!--<a href="https://www.hackerrank.com/mastermickey87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mastermickey87" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/master_mickey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="master_mickey" height="30" width="40" /></a>
