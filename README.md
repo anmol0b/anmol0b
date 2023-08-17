@@ -64,6 +64,6 @@
 [![itsanmollll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsanmollll&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg/)-->
 
-<div align="center"><a href="https://www.buymeacoffee.com/geezgod2002" target="_blank">
+<div align="center"><a href="https://www.buymeacoffee.com/itsanmollll" target="_blank">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" ></a></div>
 
