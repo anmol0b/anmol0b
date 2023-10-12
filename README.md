@@ -30,9 +30,11 @@
   <img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png">
   <img alt="JavaScript" src="https://img.icons8.com/color/48/000000/javascript.png">
   <!--<img alt="React" src="https://img.icons8.com/color/48/000000/react-native.png">
-  <img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png">-->
+  <img alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png">
   <img alt="Android" src="https://img.icons8.com/color/48/000000/android-os.png">
-  <!--<img alt="iOS" src="https://img.icons8.com/color/48/000000/ios-logo.png">-->
+  <img alt="iOS" src="https://img.icons8.com/color/48/000000/ios-logo.png">-->
+  <img alt="Android Studio" src="https://img.icons8.com/color/48/000000/android-studio.png">
+  <img alt="Xcode" src="https://img.icons8.com/color/48/000000/xcode.png">
   <img alt="Swift" src="https://img.icons8.com/color/48/000000/swift.png">
   <img alt="Kotlin" src="https://img.icons8.com/color/48/000000/kotlin.png">
   <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
