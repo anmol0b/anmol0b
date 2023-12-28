@@ -14,8 +14,11 @@
 <!-- Social Media Links -->
 <p align="center">
   <!--<a href="https://johndoe.com" target="blank"><img src="https://img.icons8.com/material/48/000000/domain.png" alt="Website"></a>-->
+<!--   <a href="mailto:singodiyashubham87@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a> -->
+  <a href="mailto:anmolbhardwajinv224+work@gmail.com" target="_blank"><img src="https://img.icons8.com/material/48/000000/gmail.png" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/itsanmollll/" target="blank"><img src="https://img.icons8.com/material/48/000000/linkedin--v2.png" alt="LinkedIn"></a>
   <a href="https://twitter.com/itsanmollll" target="blank"><img src="https://img.icons8.com/material/48/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://discord.com/your_username" target="_blank"><img src="https://img.icons8.com/material/48/000000/discord-logo.png" alt="Discord"></a>
 </p>
 
 <!-- About Me -->
