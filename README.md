@@ -2,7 +2,7 @@
 <h1 align="center">Anmol Bhardwaj</h1>
 
 <!-- Your Tagline -->
-<h3 align="center">Data Science |Open Source Enthusiast</h3>  <!-- Mobile Developer-->
+<h3 align="center">Data Science</h3>  <!-- Mobile Developer-->
 
 <!-- Badges -->
 <p align="center">
