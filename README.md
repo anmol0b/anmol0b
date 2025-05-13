@@ -6,9 +6,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/itsanmollll?label=Followers&style=social">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/itsanmollll/itsanmollll?style=social">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/itsanmollll/itsanmollll?style=social">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/itsanmoll?label=Followers&style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/itsanmoll/itsanmoll?style=social">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/itsanmoll/itsanmoll?style=social">
 </p>
 
 <!-- Social Media Links -->
@@ -16,8 +16,8 @@
   <!--<a href="https://johndoe.com" target="blank"><img src="https://img.icons8.com/material/48/000000/domain.png" alt="Website"></a>-->
 <!--   <a href="mailto:singodiyashubham87@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a> -->
   <a href="mailto:anmolbhardwajinv@gmail.com" target="_blank"><img src="https://img.icons8.com/material/48/000000/gmail.png" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/itsanmollll/" target="blank"><img src="https://img.icons8.com/material/48/000000/linkedin--v2.png" alt="LinkedIn"></a>
-  <a href="https://twitter.com/itsanmollll" target="blank"><img src="https://img.icons8.com/material/48/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/itsanmoll/" target="blank"><img src="https://img.icons8.com/material/48/000000/linkedin--v2.png" alt="LinkedIn"></a>
+  <a href="https://twitter.com/anmolbhardwajAi" target="blank"><img src="https://img.icons8.com/material/48/000000/twitter.png" alt="Twitter"></a>
   <a href="https://discord.com/ikotetsu" target="_blank"><img src="https://img.icons8.com/material/48/000000/discord-logo.png" alt="Discord"></a>
 </p>
 
@@ -59,13 +59,13 @@
 <!-- GitHub Stats -->
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsanmollll&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsanmoll&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 
-[![itsanmollll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsanmollll&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![itsanmoll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsanmoll&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- This commented code show how much percentage of language a user used according to his/ her githubb profile.
-<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsanmollll&show_icons=true&locale=en&layout=compact" alt="itsanmollll"/></p></div>-->
-<div align="center"><a href="https://www.buymeacoffee.com/itsanmollll" target="_blank">
+<div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsanmoll&show_icons=true&locale=en&layout=compact" alt="itsanmoll"/></p></div>-->
+<div align="center"><a href="https://www.buymeacoffee.com/itsanmoll" target="_blank">
  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" ></a></div>
