@@ -17,7 +17,7 @@
 <!--   <a href="mailto:singodiyashubham87@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=1A0000" /></a> -->
   <a href="mailto:anmolbhardwajinv@gmail.com" target="_blank"><img src="https://img.icons8.com/material/48/000000/gmail.png" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/itsanmoll/" target="blank"><img src="https://img.icons8.com/material/48/000000/linkedin--v2.png" alt="LinkedIn"></a>
-  <a href="https://twitter.com/anmolbhardwajAi" target="blank"><img src="https://img.icons8.com/material/48/000000/twitter.png" alt="Twitter"></a>
+  <a href="https://twitter.com/anmol0b" target="blank"><img src="https://img.icons8.com/material/48/000000/twitter.png" alt="Twitter"></a>
   <a href="https://discord.com/ikotetsu" target="_blank"><img src="https://img.icons8.com/material/48/000000/discord-logo.png" alt="Discord"></a>
 </p>
 
