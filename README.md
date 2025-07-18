@@ -17,8 +17,8 @@
 - 🌱 I’m currently learning Web3, Next.js, and scaling my backend skills.
 - 👯 I’m looking to collaborate with Web3 folks and creative Frontend developers.
 - 🤔 I’m open to mentorship, guidance, or collab on Web3 projects and LLM-based apps.
-- ⚙️ I use daily: .js, .ts, .py, .cpp, .jsx
-- 💬 Ping me about Competitive Programming, Fullstack Dev, Web3, LLMs, or even Hackathons
+- ⚙️ I use daily: .js, .ts, .py, .cpp, .jsx , .tsx
+- 💬 Ping me about Fullstack Dev, Web3, LLMs, or even Hackathons
 
 
 </td>
