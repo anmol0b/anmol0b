@@ -1,13 +1,8 @@
-
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Anmol;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-
 <br>
-
-
-
 
 <table align="center">
 <tr border="none">
@@ -20,15 +15,10 @@
 - ⚙️ I use daily: .js, .ts, .py, .cpp, .jsx , .tsx
 - 💬 Ping me about Fullstack Dev, Web3, LLMs, or even Hackathons
 
-
 </td>
 
 </tr>
 </table>
-
-
-
-
 
 <table align="center">
 <tr border="none">
@@ -47,10 +37,6 @@
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
-
-
-
-
   <a href="mailto:anmolbhardwajinv@gmail.com" >
     <img align="center" alt="kairvee | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
@@ -60,7 +46,3 @@
 
 <div align="center"><a href="https://buymeacoffee.com/itsanmollll" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" ></a></div>
-
-
-
-
