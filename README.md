@@ -34,7 +34,6 @@
 
 [![itsanmoll's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsanmoll&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
   <a href="mailto:anmolbhardwajinv@gmail.com" >
