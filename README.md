@@ -16,11 +16,6 @@
 - 💬 Ping me about Fullstack Dev, Web3, LLMs, or even Hackathons
 
 </td>
-
-
-
-
-
 </tr>
 </table>
 <table align="center">
