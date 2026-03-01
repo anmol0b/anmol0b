@@ -38,7 +38,8 @@
 
 # 🏆 Achievements
 
-- 2× Smart India Hackathon Grand Finalist  
+- 2× Smart India Hackathon Grand Finalist
+- 2x Nasa Space Apps Regional Grand Finale
 - Solana Turbine Builders Program Graduate  
 
 ---
