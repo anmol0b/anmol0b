@@ -50,7 +50,7 @@
 Solana • Rust • Anchor • SPL Tokens • PDA • CPI  
 
 **Backend**  
-Node.js • Express  
+Node.js • Express  • FastApi • Django • 
 
 **Frontend**  
 React • Next.js • Tailwind  
