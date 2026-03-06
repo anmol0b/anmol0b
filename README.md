@@ -1,11 +1,22 @@
-<div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&height=60&width=600&lines=Heyyy!+I'm+Anmol;Welcome+to+my+profile!" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&height=60&width=600&lines=Heyyy!+I'm+Anmol;Welcome+to+my+profile!" alt="Typing SVG" />
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Programmer GIF" />
+      </td>
+      <td align="center">
+        <img 
+          title="🔥 Get streak stats..." 
+          alt="Current streak" 
+          src="https://streak-stats.demolab.com?user=anmol0b&theme=chartreuse-dark&hide_border=true&background=000000&border_radius=10&card_width=500" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<br>
-<br>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol0b&theme=chartreuse-dark&hide_border=false" /> 
 
 <br clear="right"/>
 
@@ -83,11 +94,13 @@
 </a>
 </div>
 
+![Anmol](https://raw.githubusercontent.com/anmol0b/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Anmol](https://raw.githubusercontent.com/anmol/github-stats/master/generated/overview.svg#gh-light-mode-only)
 <!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anmol0b&theme=chartreuse-dark&show_icons=true&count_private=true" /> -->
 
 
-
-
+<!--[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmol0b)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmol0b&show_icons=true&theme=radical)-->
 
 <!-- <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol0b&show_icons=true&locale=en&layout=compact" alt="anmol0b"/></p></div>
 <div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anmol0b&show_icons=true&locale=en" alt="anmol0b" /></p></div> -->
