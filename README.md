@@ -9,10 +9,7 @@
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Programmer GIF" />
       </td>
       <td align="center">
-        <img 
-          title="🔥 Get streak stats..." 
-          alt="Current streak" 
-          src="https://streak-stats.demolab.com?user=anmol0b&theme=chartreuse-dark&hide_border=true&background=000000&border_radius=10&card_width=500" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=anmol0b&show_icons=true&theme=transparent" alt="GitHub stats"/>
       </td>
     </tr>
   </table>
@@ -29,6 +26,7 @@
 | [Sentinel](https://github.com/anmol0b/Sentinel) | Governance Risk Oracle for DAOs | Rust • Anchor |
 | [Turbine Builder Assignments](https://github.com/anmol0b/turbine-builder-assignments-Q1) | Collection of Solana programs (Vaults, Escrow, NFT Minting, AMM Logic) | Rust • Anchor |
 
+---
 
 ## Web2 Projects
 
@@ -50,12 +48,46 @@
 
 # ⚙️ Tech Stack
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust"/>
+<img src="https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana"/>
+<img src="https://img.shields.io/badge/Anchor-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikitlearn"/>
+</p>
+
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anmol0b&layout=compact" width="380" alt="Programmer GIF" />
+      </td>
+      <td align="center">
+         <img 
+  title="🔥 Get streak stats..."
+  alt="Current streak" 
+  src="https://streak-stats.demolab.com?user=anmol0b&theme=chartreuse-dark&hide_border=true&background=000000&border_radius=10&card_width=500" />
+      </td>
+    </tr>
+  </table>
 
 # 📊 GitHub Activity
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=anmol0b&theme=github-dark)
-<!--[![anmol0b's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anmol0b&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
 ---
 
 # 🤝 Connect With Me
@@ -84,9 +116,7 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/>
 </a>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 <div align="center">
 <a href="https://buymeacoffee.com/itsanmollll">
@@ -94,15 +124,4 @@
 </a>
 </div>
 
-![Anmol](https://raw.githubusercontent.com/anmol0b/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Anmol](https://raw.githubusercontent.com/anmol/github-stats/master/generated/overview.svg#gh-light-mode-only)
-<!-- <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anmol0b&theme=chartreuse-dark&show_icons=true&count_private=true" /> -->
-
-
-<!--[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmol0b)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmol0b&show_icons=true&theme=radical)-->
-
-<!-- <div align="center"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol0b&show_icons=true&locale=en&layout=compact" alt="anmol0b"/></p></div>
-<div align="center"><p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anmol0b&show_icons=true&locale=en" alt="anmol0b" /></p></div> -->
-
- 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&layout=compact)
