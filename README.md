@@ -102,9 +102,7 @@
 </a>
 &nbsp;&nbsp;
 
-<!-- <a href="https://discord.com/users/anmol0b">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="28"/>
-</a> -->
+
 
 
 <a href="https://x.com/anmol0b">
@@ -112,9 +110,7 @@
 </a>
 &nbsp;&nbsp;
 
-<!-- <a href="https://www.instagram.com/anmol0b/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/>
-</a> -->
+
 
 <br><br><br>
 
