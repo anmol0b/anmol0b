@@ -102,19 +102,19 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://discord.com/users/anmol0b">
+<!-- <a href="https://discord.com/users/anmol0b">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="28"/>
-</a>
-&nbsp;&nbsp;
+</a> -->
+
 
 <a href="https://x.com/anmol0b">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="28"/>
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/anmol0b/">
+<!-- <a href="https://www.instagram.com/anmol0b/">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/>
-</a>
+</a> -->
 
 <br><br><br>
 
