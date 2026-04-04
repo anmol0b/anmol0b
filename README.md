@@ -9,7 +9,7 @@
         <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Programmer GIF" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=anmol0b&show_icons=true&theme=radical" alt="GitHub stats"/>
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=anmol0b&show_icons=true&theme=radical&count_private=true" alt="GitHub stats"/>
       </td>
     </tr>
   </table>
