@@ -19,22 +19,17 @@
 
 # Proof of Work
 
-## Solana Programs (Rust / Anchor)
+## Projects 
 
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Sentinel](https://github.com/anmol0b/Sentinel) | Governance Risk Oracle for DAOs | Rust • Anchor |
 | [Turbine Builder Assignments](https://github.com/anmol0b/turbine-builder-assignments-Q1) | Collection of Solana programs (Vaults, Escrow, NFT Minting, AMM Logic) | Rust • Anchor |
-
----
-
-## Web2 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
+| [Bounded MPMC Queue](https://github.com/anmol0b/bounded_mpmc_queue) | Implemented Bounded Multi Producer Multi Consumer Queue from Scratch | Rust |
 | [Orion AI](https://github.com/anmol0b/Orion-Ai) | Real-time satellite tracking & visualization tool | Next.js • Node |
 | [Galaxy Harmonix](https://github.com/anmol0b/galaxy-harmonix) | Fourier Transform on 3D datasets | Python |
 | [BhashaBazaar](https://github.com/anmol0b/BhashaBazaar) | Indic language translation system | NLP • Transformers |
+| [Tracify](https://github.com/anmol0b/Traceify)| Public profile intelligence | AI • Groq • Python|
 
 ---
 
