@@ -3,7 +3,7 @@
 
 &nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol0b/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/anmol0b)
-[![Email](https://img.shields.io/badge/anmolbhardwajinv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anmolbhardwajinv@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anmolbhardwajinv@gmail.com)
 
 ---
 
@@ -27,9 +27,3 @@
 | [BhashaBazaar](https://github.com/anmol0b/BhashaBazaar) | Neural machine translation for Indic languages | `Python` `Transformers` |
 | [Orion AI](https://github.com/anmol0b/Orion-Ai) | Real-time satellite tracking with 3D orbital visualization | `Next.js` `Node.js` |
 | [Tracify](https://github.com/anmol0b/Traceify) | Cross-platform public profile intelligence | `Python` `Groq` |
-
----
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anmol0b&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3" width="100%"/>
-</div>
