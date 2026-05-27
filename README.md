@@ -21,6 +21,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [Trezo AI](https://github.com/anmol0b/Trezo-Ai) | The onchain CFO for modern SaaS companies | `Rust` `Anchor` `Solana` `Expressjs` `Nextjs`|
+| [P-Speed](https://github.com/anmol0b/p-speed) | About Benchmark P-Token (SIMD-0266) compute units live on Solana | `Rust` `Solana` `CLI` |
 | [Sentinel](https://github.com/anmol0b/Sentinel) | On-chain governance risk oracle for DAOs | `Rust` `Anchor` `Solana` |
 | [Bounded MPMC Queue](https://github.com/anmol0b/bounded_mpmc_queue) | Lock-free multi-producer multi-consumer queue, from scratch | `Rust` |
 | [Solana Programs](https://github.com/anmol0b/turbine-builder-assignments-Q1) | Vaults, escrow, NFT minting, and AMM logic | `Rust` `Anchor` |
