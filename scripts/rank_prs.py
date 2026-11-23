@@ -1,4 +1,9 @@
-"""Find every repo you've contributed PRs to, rank by merged PRs, and rewrite the README section."""
+"""Find every repo you've contributed PRs to, rank by merged PRs, and rewrite the README section.
+
+Counts come from the GraphQL `user.pullRequests` connection, not the search API:
+GitHub search silently misses some PRs (e.g. every PR in stablyai/orca), which made
+repos vanish from the list and their search-backed badges read 0.
+"""
 import json
 import os
 import re
@@ -18,48 +23,66 @@ EXCLUDE = {
     "Sanjay8602/AutoGPT",  # a fork, not the real AutoGPT
 }
 
+# (label, GraphQL state, badge color)
 STATES = [
-    ("open", "is:open", "2ea043"),
-    ("merged", "is:merged", "8957e5"),
-    ("closed", "is:closed is:unmerged", "cf222e"),
+    ("open", "OPEN", "2ea043"),
+    ("merged", "MERGED", "8957e5"),
+    ("closed", "CLOSED", "cf222e"),
 ]
 
 START, END = "<!-- OSS:START -->", "<!-- OSS:END -->"
 
+QUERY = """
+query($login: String!, $after: String) {
+  user(login: $login) {
+    pullRequests(first: 100, after: $after) {
+      pageInfo { hasNextPage endCursor }
+      nodes {
+        state
+        repository { nameWithOwner stargazerCount isPrivate owner { login } }
+      }
+    }
+  }
+}
+"""
 
-def api(path):
-    req = urllib.request.Request("https://api.github.com" + path,
-                                 headers={"Accept": "application/vnd.github+json"})
+
+def graphql(variables):
     token = os.environ.get("GITHUB_TOKEN")
-    if token:
-        req.add_header("Authorization", f"Bearer {token}")
+    if not token:
+        raise SystemExit("GITHUB_TOKEN is required (GraphQL API needs auth)")
+    req = urllib.request.Request(
+        "https://api.github.com/graphql",
+        data=json.dumps({"query": QUERY, "variables": variables}).encode(),
+        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
+    )
     with urllib.request.urlopen(req) as r:
-        return json.load(r)
+        data = json.load(r)
+    if "errors" in data:
+        raise SystemExit(f"GraphQL error: {data['errors']}")
+    return data["data"]
 
 
 def all_prs():
-    """Every PR you authored in repos you don't own (search API caps at 1000)."""
-    q = urllib.parse.quote(f"author:{USER} type:pr -user:{USER}")
-    items, page = [], 1
-    while page <= 10:
-        data = api(f"/search/issues?q={q}&per_page=100&page={page}")
-        items += data["items"]
-        if len(data["items"]) < 100:
-            break
-        page += 1
-    return items
+    """Every PR you authored, across all pages."""
+    prs, after = [], None
+    while True:
+        conn = graphql({"login": USER, "after": after})["user"]["pullRequests"]
+        prs += conn["nodes"]
+        if not conn["pageInfo"]["hasNextPage"]:
+            return prs
+        after = conn["pageInfo"]["endCursor"]
 
 
 def excluded(repo):
     return repo in EXCLUDE or repo.split("/")[0] in EXCLUDE
 
 
-def line(repo):
+def line(repo, counts):
     badges = []
-    for label, query, color in STATES:
-        q = f"repo:{repo} author:{USER} is:pr {query}"
-        img = ("https://img.shields.io/github/issues-search?query=" + urllib.parse.quote(q)
-               + f"&label={label}&color={color}&style=flat-square")
+    for label, state, color in STATES:
+        img = f"https://img.shields.io/badge/{label}-{counts.get(state, 0)}-{color}?style=flat-square"
+        query = {"OPEN": "is:open", "MERGED": "is:merged", "CLOSED": "is:closed is:unmerged"}[state]
         link = f"https://github.com/{repo}/pulls?q=" + urllib.parse.quote_plus(f"is:pr author:{USER} {query}")
         badges.append(f"[![{label}]({img})]({link})")
     name = repo.split("/")[1]
@@ -67,25 +90,20 @@ def line(repo):
 
 
 def main():
-    merged, total = {}, {}
+    counts, stars = {}, {}
     for pr in all_prs():
-        repo = pr["repository_url"].split("/repos/")[1]
-        if excluded(repo):
+        r = pr["repository"]
+        repo = r["nameWithOwner"]
+        if r["isPrivate"] or r["owner"]["login"].lower() == USER.lower() or excluded(repo):
             continue
-        total[repo] = total.get(repo, 0) + 1
-        if pr.get("pull_request", {}).get("merged_at"):
-            merged[repo] = merged.get(repo, 0) + 1
+        stars[repo] = r["stargazerCount"]
+        c = counts.setdefault(repo, {})
+        c[pr["state"]] = c.get(pr["state"], 0) + 1
 
-    shown = []
-    for repo, m in merged.items():
-        if m < MIN_MERGED:
-            continue
-        if api(f"/repos/{repo}")["stargazers_count"] < MIN_STARS:
-            continue
-        shown.append(repo)
-
-    shown.sort(key=lambda r: (-merged[r], -total[r], r.lower()))
-    body = "\n".join(line(r) for r in shown)
+    shown = [r for r, c in counts.items()
+             if c.get("MERGED", 0) >= MIN_MERGED and stars[r] >= MIN_STARS]
+    shown.sort(key=lambda r: (-counts[r].get("MERGED", 0), -sum(counts[r].values()), r.lower()))
+    body = "\n".join(line(r, counts[r]) for r in shown)
 
     with open("README.md", encoding="utf-8") as f:
         readme = f.read()
@@ -95,7 +113,7 @@ def main():
         f.write(readme)
 
     for r in shown:
-        print(f"{merged[r]:>3} merged  {r}")
+        print(f"{counts[r].get('MERGED', 0):>3} merged  {r}")
 
 
 if __name__ == "__main__":
