@@ -7,7 +7,6 @@ repos vanish from the list and their search-backed badges read 0.
 import json
 import os
 import re
-import urllib.parse
 import urllib.request
 
 USER = "anmol0b"
@@ -23,11 +22,10 @@ EXCLUDE = {
     "Sanjay8602/AutoGPT",  # a fork, not the real AutoGPT
 }
 
-# (label, GraphQL state, badge color)
+# (label, GraphQL state), in the order they're listed
 STATES = [
-    ("open", "OPEN", "2ea043"),
-    ("merged", "MERGED", "8957e5"),
-    ("closed", "CLOSED", "cf222e"),
+    ("merged", "MERGED"),
+    ("open", "OPEN"),
 ]
 
 START, END = "<!-- OSS:START -->", "<!-- OSS:END -->"
@@ -79,14 +77,9 @@ def excluded(repo):
 
 
 def line(repo, counts):
-    badges = []
-    for label, state, color in STATES:
-        img = f"https://img.shields.io/badge/{label}-{counts.get(state, 0)}-{color}?style=flat-square"
-        query = {"OPEN": "is:open", "MERGED": "is:merged", "CLOSED": "is:closed is:unmerged"}[state]
-        link = f"https://github.com/{repo}/pulls?q=" + urllib.parse.quote_plus(f"is:pr author:{USER} {query}")
-        badges.append(f"[![{label}]({img})]({link})")
+    parts = [f"{counts.get(state, 0)} {label}" for label, state in STATES if counts.get(state, 0)]
     name = repo.split("/")[1]
-    return f"- **[{name}](https://github.com/{repo})** &nbsp; " + " ".join(badges)
+    return f"- [{name}](https://github.com/{repo}): " + " · ".join(parts)
 
 
 def main():
