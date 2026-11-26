@@ -65,12 +65,12 @@ Most of my open-source work is fixing bugs in AI agent tools: [OpenClaw](https:/
 **Merged PRs by project** (updated daily)
 
 <!-- OSS:START -->
-- [openclaw](https://github.com/openclaw/openclaw): 47 merged · 1 open
+- [openclaw](https://github.com/openclaw/openclaw): 47 merged · 2 open
 - [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator): 13 merged
 - [orca](https://github.com/stablyai/orca): 6 merged · 2 open
 - [networking](https://github.com/cb7chaitanya/networking): 3 merged · 1 open
 - [ossdotnow](https://github.com/collabute/ossdotnow): 2 merged
-- [opencode](https://github.com/anomalyco/opencode): 1 merged · 2 open
+- [opencode](https://github.com/anomalyco/opencode): 1 merged · 1 open
 - [openclaw-enterprise](https://github.com/openclaw/openclaw-enterprise): 1 merged · 1 open
 - [Paradev](https://github.com/ParadevAI/Paradev): 1 merged
 <!-- OSS:END -->
