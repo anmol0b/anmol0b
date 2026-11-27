@@ -62,6 +62,18 @@ Most of my open-source work is fixing bugs in AI agent tools: [OpenClaw](https:/
 - [Paradev](https://github.com/ParadevAI/Paradev/pull/9492): bound the GitHub repository walk with one deadline
 - [ossdotnow](https://github.com/collabute/ossdotnow/pull/167): project launch scheduling
 
+**Co-authored**: merged PRs opened by maintainers or bots that carry my commits or build on my fix
+
+- [openclaw#200303](https://github.com/openclaw/openclaw/pull/200303): release earlier Template-managed agents (carries my [#196338](https://github.com/openclaw/openclaw/pull/196338))
+- [openclaw#200300](https://github.com/openclaw/openclaw/pull/200300): authorize new-agent rollback writes (carries my [#196054](https://github.com/openclaw/openclaw/pull/196054))
+- [openclaw#180092](https://github.com/openclaw/openclaw/pull/180092): offer correction releases to the macOS updater (supersedes my [#177377](https://github.com/openclaw/openclaw/pull/177377))
+- [openclaw#186271](https://github.com/openclaw/openclaw/pull/186271): no duplicate voice sends or false "sent" feedback on macOS (with roboclaw)
+- [openclaw#186117](https://github.com/openclaw/openclaw/pull/186117): iMessage reports Automation failures after Gateway updates (with roboclaw)
+- [openclaw#198444](https://github.com/openclaw/openclaw/pull/198444): repository refresh failures keep their Git diagnostics (with roboclaw)
+- [openclaw#187478](https://github.com/openclaw/openclaw/pull/187478): catch empty typing avatars in remote-draft tests (with roboclaw)
+- [openclaw#183706](https://github.com/openclaw/openclaw/pull/183706): goals created mid-turn keep running after delegated work
+- [opencode#59144](https://github.com/anomalyco/opencode/pull/59144): macOS Cmd+Q finishes quitting after shutdown (builds on my diagnosis in [#58949](https://github.com/anomalyco/opencode/pull/58949))
+
 **Merged PRs by project** (updated daily)
 
 <!-- OSS:START -->
