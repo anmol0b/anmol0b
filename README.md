@@ -77,7 +77,7 @@ Most of my open-source work is fixing bugs in AI agent tools: [OpenClaw](https:/
 **Merged PRs by project** (updated daily)
 
 <!-- OSS:START -->
-- [openclaw](https://github.com/openclaw/openclaw): 47 merged · 11 open
+- [openclaw](https://github.com/openclaw/openclaw): 47 merged · 18 open
 - [agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator): 13 merged
 - [orca](https://github.com/stablyai/orca): 6 merged · 2 open
 - [networking](https://github.com/cb7chaitanya/networking): 3 merged · 1 open
